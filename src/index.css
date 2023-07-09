@@ -4,20 +4,20 @@
 
 @font-face {
   font-family: "Sigilos";
-  src: url("../public/Sigilos-Regular.ttf");
+  src: url("/Sigilos-Regular.ttf");
 }
 
 @font-face {
   font-family: "Westsac";
-  src: url("../public/westsac.ttf");
+  src: url("/westsac.ttf");
 }
 
 @font-face {
   font-family: "Sinais";
-  src: url("../public/SinaisEstrangeiro.ttf");
+  src: url("/SinaisEstrangeiro.ttf");
 }
 
 @font-face {
   font-family: "Blur";
-  src: url("../public/Blur Light Regular.otf");
+  src: url("/Blur Light Regular.otf");
 }
